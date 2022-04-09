@@ -1,0 +1,55 @@
+{
+    "register":{
+        "name": "Karina Justo",
+        "cpf": "00011122334",
+        "email": "teste@gmail.com",
+        "whatsapp": "11999540867",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "65",
+            "details": "Ap 10",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_invalido":{
+        "name": "Manuel Antonio",
+        "cpf": "XX11122334",
+        "email": "teste@hotmail.com",
+        "whatsapp": "17999545567",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "65",
+            "details": "Ap 10",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_invalido":{
+        "name": "Leonardo Rizzo",
+        "cpf": "00011122334",
+        "email": "teste.gmail.com",
+        "whatsapp": "11999540867",
+        "address": {
+            "postalcode": "15990390",
+            "street": "Avenida Luiz Augusto do Amaral Sampaio",
+            "number": "693",
+            "details": " ",
+            "district": "IV Centenário",
+            "city_state": "Matão/SP"
+        },
+
+        "delivery_method": "Bike Elétrica",
+        "cnh": "cnh-digital.jpg"
+    }
+}
